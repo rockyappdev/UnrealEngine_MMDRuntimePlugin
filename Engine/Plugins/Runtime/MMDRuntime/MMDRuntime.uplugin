@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "MMD Model&Motion runtime support file For UE4. (IM4U Plugin)",
+	"Version" : 1,
+	"VersionName" : "0.1.0",
+	"CreatedBy" : "Rocky H. Shiotsuki",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.8.0",
+	"Description" : "MMD Model & Motion runtime support Files. alpha Ver. ",
+	"Category" : "Runtime",
+	"EnabledByDefault" : false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "MMDRuntime",
+			"Type" : "Runtime"
+		}
+	]
+}
